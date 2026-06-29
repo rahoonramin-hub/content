@@ -1,0 +1,14 @@
+[
+  {
+    "id": "str_001",
+    "type": "story",
+    "level": "beginner",
+    "priority": 20,
+    "data": {
+      "title": "The Golden Egg",
+      "content": "A man had a goose that laid a golden egg daily. Greed took over; he killed it to get all the gold at once, but found nothing inside. What is the moral lesson here?",
+      "translation": "مردی غازی داشت که روزانه یک تخم طلا می‌گذاشت. طمع او را فرا گرفت؛ او غاز را کشت تا همه طلاها را یکجا به دست آورد، اما چیزی درون آن نیافت. درس اخلاقی در اینجا چیست؟",
+      "readTime": 1
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fct_001",
+    "type": "fact",
+    "level": "intermediate",
+    "priority": 25,
+    "img": "explore/assets/images/honey_bee.png",
+    "data": {
+      "caption": "Honey never spoils!",
+      "explanation": "Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible.",
+      "funFact": "Did you know that bees must visit two million flowers to make just one pound of honey?"
+    }
+  }
+]

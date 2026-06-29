@@ -1,0 +1,15 @@
+[
+  {
+    "id": "qz_001",
+    "type": "mini_quiz",
+    "level": "beginner",
+    "priority": 5,
+    "data": {
+      "question": "Which word is an antonym of 'Generous'?",
+      "questionFa": "کدام کلمه متضاد واژه 'Generous' (بخشنده) است؟",
+      "options": ["Kind", "Stingy", "Helpful", "Wealthy"],
+      "correctIndex": 1,
+      "explanation": "واژه 'Stingy' به معنای خسیس است که دقیقاً نقطه مقابل واژه 'Generous' قرار دارد."
+    }
+  }
+]

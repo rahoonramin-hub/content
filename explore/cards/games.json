@@ -1,0 +1,29 @@
+[
+  {
+    "id": "gm_001",
+    "type": "game",
+    "level": "beginner",
+    "priority": 2,
+    "data": {
+      "gameType": "fill_blank",
+      "sentence": "She decided to _______ her flight due to the heavy storm.",
+      "answer": "cancel",
+      "options": ["cancel", "invite", "destroy", "accept"],
+      "hint": "To stop something from happening."
+    }
+  },
+  {
+    "id": "gm_002",
+    "type": "game",
+    "level": "intermediate",
+    "priority": 3,
+    "data": {
+      "gameType": "word_match",
+      "pairs": [
+        { "word": "Abundant", "match": "Plentiful" },
+        { "word": "Scarce", "match": "Rare" },
+        { "word": "Trivial", "match": "Unimportant" }
+      ]
+    }
+  }
+]

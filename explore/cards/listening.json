@@ -1,0 +1,14 @@
+[
+  {
+    "id": "lis_001",
+    "type": "listening",
+    "level": "advanced",
+    "priority": 30,
+    "data": {
+      "audioStoragePath": "explore/assets/audio/climate_change.mp3",
+      "transcript": "Listen closely: The core challenge of climate mitigation lies in altering global energy frameworks within a decade.",
+      "translation": "دقیق گوش کنید: چالش اصلی کاهش آثار تغییرات اقلیمی در تغییر چارچوب‌های انرژی جهانی ظرف یک دهه نهفته است.",
+      "speaker": "Professor Smith"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "idm_001",
+    "type": "idiom",
+    "level": "intermediate",
+    "priority": 15,
+    "data": {
+      "idiom": "Bite the bullet",
+      "meaning": "مواجه شدن با یک موقعیت دشوار با شجاعت و قاطعیت",
+      "example": "I have to bite the bullet and go to the dentist. Would you do the same?",
+      "exampleTranslation": "من باید دل را به دریا بزنم و به دندان‌پزشکی بروم. آیا شما هم همین کار را می‌کردید؟"
+    }
+  }
+]

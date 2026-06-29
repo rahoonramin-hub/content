@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "files": [
+    "flashcards.json",
+    "facts.json",
+    "games.json",
+    "idioms.json",
+    "listening.json",
+    "quizzes.json",
+    "stories.json"
+  ]
+}
