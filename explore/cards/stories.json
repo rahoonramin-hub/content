@@ -1,14 +1,74 @@
 [
   {
-    "id": "str_001",
+    "id": "st_004",
     "type": "story",
     "level": "beginner",
-    "priority": 20,
+    "priority": 4,
     "data": {
-      "title": "The Golden Egg",
-      "content": "A man had a goose that laid a golden egg daily. Greed took over; he killed it to get all the gold at once, but found nothing inside. What is the moral lesson here?",
-      "translation": "مردی غازی داشت که روزانه یک تخم طلا می‌گذاشت. طمع او را فرا گرفت؛ او غاز را کشت تا همه طلاها را یکجا به دست آورد، اما چیزی درون آن نیافت. درس اخلاقی در اینجا چیست؟",
+      "title": "The Wrong Bus",
+      "content": "Ali was tired after a long day at school. He got on the bus without checking the number. Twenty minutes later, he realized he was heading in the opposite direction. He laughed at his own mistake and got off at the next stop to wait for the correct bus.",
+      "translation": "علی بعد از یک روز طولانی در مدرسه خسته بود. بدون بررسی شماره سوار اتوبوس شد. بیست دقیقه بعد متوجه شد در جهت مخالف در حرکت است. به اشتباه خودش خندید و در ایستگاه بعدی پیاده شد تا منتظر اتوبوس درست بماند.",
       "readTime": 1
+    }
+  },
+  {
+    "id": "st_005",
+    "type": "story",
+    "level": "beginner",
+    "priority": 5,
+    "data": {
+      "title": "A Forgotten Birthday",
+      "content": "Sara completely forgot her brother's birthday. She felt terrible when she saw his message. Instead of apologizing by text, she called him immediately and offered to take him out for dinner. He was happy with her honesty and quick response.",
+      "translation": "سارا کاملاً تولد برادرش را فراموش کرده بود. وقتی پیام او را دید، احساس بدی داشت. به‌جای عذرخواهی با پیام، بلافاصله با او تماس گرفت و پیشنهاد داد او را به شام ببرد. برادرش از صداقت و واکنش سریع او خوشحال شد.",
+      "readTime": 1
+    }
+  },
+  {
+    "id": "st_006",
+    "type": "story",
+    "level": "intermediate",
+    "priority": 6,
+    "data": {
+      "title": "The Job Interview",
+      "content": "Reza had practiced his answers for days, yet his hands were still shaking before the interview. When the manager asked an unexpected question, he paused, took a breath, and answered honestly instead of guessing. To his surprise, the manager appreciated his honesty more than a perfect answer.",
+      "translation": "رضا روزها بود که جواب‌هایش را تمرین کرده بود، با این حال پیش از مصاحبه دستانش هنوز می‌لرزید. وقتی مدیر یک سؤال غیرمنتظره پرسید، مکث کرد، نفس عمیقی کشید و به‌جای حدس زدن، صادقانه پاسخ داد. در کمال تعجب، مدیر صداقت او را بیشتر از یک جواب کامل تحسین کرد.",
+      "readTime": 2
+    }
+  },
+  {
+    "id": "st_007",
+    "type": "story",
+    "level": "intermediate",
+    "priority": 7,
+    "data": {
+      "title": "The Silent Roommate",
+      "content": "When Maryam moved into her new apartment, her roommate barely spoke. She assumed the silence meant the roommate disliked her. Weeks later, she learned that her roommate was simply shy and struggling to speak English confidently. After that, Maryam made the first move to start conversations.",
+      "translation": "وقتی مریم به آپارتمان جدیدش نقل مکان کرد، هم‌اتاقی‌اش به‌ندرت صحبت می‌کرد. او فکر کرد این سکوت به این معناست که هم‌اتاقی‌اش او را دوست ندارد. هفته‌ها بعد فهمید که هم‌اتاقی‌اش فقط خجالتی بود و برای صحبت با اعتمادبه‌نفس به انگلیسی مشکل داشت. پس از آن، مریم خودش پیش‌قدم شد تا گفتگو را آغاز کند.",
+      "readTime": 2
+    }
+  },
+  {
+    "id": "st_008",
+    "type": "story",
+    "level": "advanced",
+    "priority": 8,
+    "data": {
+      "title": "The Honest Feedback",
+      "content": "After presenting her project, Niloofar received criticism she did not expect. Her first instinct was to defend herself, but she chose to listen instead. By the end of the meeting, she realized the feedback, although difficult to hear, had actually improved her work significantly.",
+      "translation": "نیلوفر پس از ارائه‌ی پروژه‌اش، نقدی شنید که انتظارش را نداشت. واکنش اولیه‌اش دفاع از خودش بود، اما به‌جای آن تصمیم گرفت گوش دهد. در پایان جلسه متوجه شد که آن بازخورد، هرچند شنیدنش سخت بود، در واقع کارش را به‌طور قابل‌توجهی بهتر کرده است.",
+      "readTime": 2
+    }
+  },
+  {
+    "id": "st_009",
+    "type": "story",
+    "level": "advanced",
+    "priority": 9,
+    "data": {
+      "title": "The Unspoken Apology",
+      "content": "After a long argument, neither Hamed nor his friend wanted to be the first to apologize. Days passed in silence. Finally, Hamed sent a simple message: \"I miss our conversations.\" No mention of the argument was needed; his friend understood immediately and replied within minutes.",
+      "translation": "بعد از یک بحث طولانی، نه حامد و نه دوستش حاضر نبودند اولین نفری باشند که عذرخواهی می‌کند. روزها در سکوت گذشت. سرانجام حامد یک پیام ساده فرستاد: «دلم برای گفتگوهایمان تنگ شده.» نیازی به اشاره به بحث نبود؛ دوستش بلافاصله متوجه شد و در عرض چند دقیقه پاسخ داد.",
+      "readTime": 2
     }
   }
 ]

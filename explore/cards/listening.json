@@ -5,10 +5,58 @@
     "level": "advanced",
     "priority": 30,
     "data": {
-      "audioStoragePath": "explore/assets/audio/climate_change.mp3",
-      "transcript": "Listen closely: The core challenge of climate mitigation lies in altering global energy frameworks within a decade.",
-      "translation": "دقیق گوش کنید: چالش اصلی کاهش آثار تغییرات اقلیمی در تغییر چارچوب‌های انرژی جهانی ظرف یک دهه نهفته است.",
-      "speaker": "Professor Smith"
+      "audioStoragePath": "explore/assets/audio/i didnt chatch that could you say it again.mp3",
+      "transcript": "I didn't catch that! Could you say it again?",
+      "translation": "متوجه نشدم! می‌شود لطفا دوباره بگویید؟ (نکته: از could برای درخواست‌های محترمانه استفاده می‌شود.)",
+      "speaker": "درخواست تکرار"
+    }
+  },
+  {
+    "id": "lis_002",
+    "type": "listening",
+    "level": "advanced",
+    "priority": 31,
+    "data": {
+      "audioStoragePath": "explore/assets/audio/im not afraid of making mistakes.mp3",
+      "transcript": "I'm not afraid of making mistakes.",
+      "translation": "من از اشتباه کردن نمی‌ترسم! (یک نگرش عالی برای یادگیری زبان)",
+      "speaker": "اعتماد به نفس"
+    }
+  },
+  {
+    "id": "lis_003",
+    "type": "listening",
+    "level": "advanced",
+    "priority": 32,
+    "data": {
+      "audioStoragePath": "explore/assets/audio/im ready to improve my speaking skills.mp3",
+      "transcript": "I'm ready to improve my speaking skills.",
+      "translation": "من کاملاً آماده‌ام تا مهارت‌های گفتاری (مکالمه) خودم را تقویت کنم.",
+      "speaker": "انگیزه و هدف"
+    }
+  },
+  {
+    "id": "lis_004",
+    "type": "listening",
+    "level": "advanced",
+    "priority": 33,
+    "data": {
+      "audioStoragePath": "explore/assets/audio/it turn out better than i expeected actually.mp3",
+      "transcript": "It turned out better than I expected, actually.",
+      "translation": "راستش را بخواهید، در نهایت خیلی بهتر از چیزی که انتظارش را داشتم از آب در آمد!",
+      "speaker": "بیان نتیجه مثبت"
+    }
+  },
+  {
+    "id": "lis_005",
+    "type": "listening",
+    "level": "advanced",
+    "priority": 34,
+    "data": {
+      "audioStoragePath": "explore/assets/audio/today is a good day to practice eng.mp3",
+      "transcript": "Today is a good day to practice English.",
+      "translation": "امروز روز فوق‌العاده‌ای برای تمرین زبان انگلیسی است.",
+      "speaker": "شروع تمرین روزانه"
     }
   }
 ]

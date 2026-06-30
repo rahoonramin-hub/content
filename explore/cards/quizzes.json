@@ -1,15 +1,100 @@
 [
   {
-    "id": "qz_001",
+    "id": "qz_005",
     "type": "mini_quiz",
     "level": "beginner",
     "priority": 5,
     "data": {
-      "question": "Which word is an antonym of 'Generous'?",
-      "questionFa": "کدام کلمه متضاد واژه 'Generous' (بخشنده) است؟",
-      "options": ["Kind", "Stingy", "Helpful", "Wealthy"],
+      "question": "Which word correctly completes the sentence: \"She ___ to the gym every morning.\"",
+      "questionFa": "کدام کلمه جمله را به‌درستی کامل می‌کند؟",
+      "options": ["go", "goes", "going", "gone"],
       "correctIndex": 1,
-      "explanation": "واژه 'Stingy' به معنای خسیس است که دقیقاً نقطه مقابل واژه 'Generous' قرار دارد."
+      "explanation": "با فاعل سوم‌شخص مفرد (She)، در زمان حال ساده باید به فعل s اضافه شود: goes."
+    }
+  },
+  {
+    "id": "qz_006",
+    "type": "mini_quiz",
+    "level": "beginner",
+    "priority": 6,
+    "data": {
+      "question": "What is the opposite of \"expensive\"?",
+      "questionFa": "متضاد کلمه‌ی expensive کدام است؟",
+      "options": ["cheap", "costly", "rich", "valuable"],
+      "correctIndex": 0,
+      "explanation": "cheap به معنای ارزان است و دقیقاً نقطه‌ی مقابل expensive (گران) محسوب می‌شود."
+    }
+  },
+  {
+    "id": "qz_007",
+    "type": "mini_quiz",
+    "level": "intermediate",
+    "priority": 7,
+    "data": {
+      "question": "Choose the correct sentence.",
+      "questionFa": "جمله‌ی درست را انتخاب کنید.",
+      "options": [
+        "I have been living here since five years.",
+        "I have been living here for five years.",
+        "I am living here since five years.",
+        "I live here for five years ago."
+      ],
+      "correctIndex": 1,
+      "explanation": "برای بیان مدت‌زمان از for استفاده می‌شود (for five years)، در حالی‌که since برای نقطه‌ی شروع زمانی به کار می‌رود (since 2019)."
+    }
+  },
+  {
+    "id": "qz_008",
+    "type": "mini_quiz",
+    "level": "intermediate",
+    "priority": 8,
+    "data": {
+      "question": "Which sentence correctly uses a reported speech structure?",
+      "questionFa": "کدام جمله ساختار نقل‌قول غیرمستقیم را به‌درستی به‌کار می‌برد؟",
+      "options": [
+        "He said that he is tired.",
+        "He said that he was tired.",
+        "He said he is being tired.",
+        "He said that he tired."
+      ],
+      "correctIndex": 1,
+      "explanation": "در نقل‌قول غیرمستقیم، زمان فعل معمولاً یک قدم به گذشته منتقل می‌شود؛ بنابراین is به was تبدیل می‌شود."
+    }
+  },
+  {
+    "id": "qz_009",
+    "type": "mini_quiz",
+    "level": "advanced",
+    "priority": 9,
+    "data": {
+      "question": "Which sentence is grammatically correct?",
+      "questionFa": "کدام جمله از نظر گرامری صحیح است؟",
+      "options": [
+        "Neither of the answers are correct.",
+        "Neither of the answers is correct.",
+        "Neither of the answers be correct.",
+        "Neither of the answers correct."
+      ],
+      "correctIndex": 1,
+      "explanation": "Neither به‌صورت مفرد در نظر گرفته می‌شود، بنابراین فعل آن نیز باید مفرد باشد: is correct، نه are correct."
+    }
+  },
+  {
+    "id": "qz_010",
+    "type": "mini_quiz",
+    "level": "advanced",
+    "priority": 10,
+    "data": {
+      "question": "Which sentence correctly uses an inversion structure?",
+      "questionFa": "کدام جمله ساختار وارونگی (inversion) را به‌درستی به‌کار می‌برد؟",
+      "options": [
+        "Never I have seen such a beautiful place.",
+        "Never have I seen such a beautiful place.",
+        "I never have seen such a beautiful place.",
+        "Never I seen such a beautiful place."
+      ],
+      "correctIndex": 1,
+      "explanation": "وقتی جمله با قیدهای منفی مانند Never آغاز شود، ترتیب فاعل و فعل کمکی معکوس می‌شود: Never have I seen."
     }
   }
 ]

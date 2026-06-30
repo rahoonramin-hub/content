@@ -1,14 +1,74 @@
 [
   {
-    "id": "idm_001",
+    "id": "id_005",
+    "type": "idiom",
+    "level": "beginner",
+    "priority": 5,
+    "data": {
+      "idiom": "Once in a blue moon",
+      "meaning": "بسیار به‌ندرت اتفاق می‌افتد",
+      "example": "We only meet once in a blue moon since she moved abroad.",
+      "exampleTranslation": "از زمانی که او به خارج از کشور رفت، فقط بسیار به‌ندرت یکدیگر را می‌بینیم."
+    }
+  },
+  {
+    "id": "id_006",
+    "type": "idiom",
+    "level": "beginner",
+    "priority": 6,
+    "data": {
+      "idiom": "Piece of cake",
+      "meaning": "کار بسیار ساده",
+      "example": "Don't worry about the test, it will be a piece of cake.",
+      "exampleTranslation": "نگران آزمون نباش، کار بسیار ساده‌ای خواهد بود."
+    }
+  },
+  {
+    "id": "id_007",
     "type": "idiom",
     "level": "intermediate",
-    "priority": 15,
+    "priority": 7,
     "data": {
-      "idiom": "Bite the bullet",
-      "meaning": "مواجه شدن با یک موقعیت دشوار با شجاعت و قاطعیت",
-      "example": "I have to bite the bullet and go to the dentist. Would you do the same?",
-      "exampleTranslation": "من باید دل را به دریا بزنم و به دندان‌پزشکی بروم. آیا شما هم همین کار را می‌کردید؟"
+      "idiom": "Under the weather",
+      "meaning": "احساس بیماری یا ناخوشی جزئی",
+      "example": "I'm feeling a bit under the weather today, so I will rest.",
+      "exampleTranslation": "امروز کمی احساس ناخوشی می‌کنم، پس استراحت خواهم کرد."
+    }
+  },
+  {
+    "id": "id_008",
+    "type": "idiom",
+    "level": "intermediate",
+    "priority": 8,
+    "data": {
+      "idiom": "Get the ball rolling",
+      "meaning": "شروع کردن یک فرآیند یا پروژه",
+      "example": "Let's get the ball rolling on the new project this week.",
+      "exampleTranslation": "بیایید همین هفته پروژه‌ی جدید را آغاز کنیم."
+    }
+  },
+  {
+    "id": "id_009",
+    "type": "idiom",
+    "level": "advanced",
+    "priority": 9,
+    "data": {
+      "idiom": "Read between the lines",
+      "meaning": "متوجه معنای پنهان یک پیام شدن",
+      "example": "If you read between the lines, you'll see he is not satisfied.",
+      "exampleTranslation": "اگر معنای پنهان حرف‌هایش را درک کنی، متوجه می‌شوی که او راضی نیست."
+    }
+  },
+  {
+    "id": "id_010",
+    "type": "idiom",
+    "level": "advanced",
+    "priority": 10,
+    "data": {
+      "idiom": "Cut corners",
+      "meaning": "برای صرفه‌جویی در زمان یا هزینه، کیفیت کار را پایین آوردن",
+      "example": "The company cut corners on safety to reduce costs.",
+      "exampleTranslation": "شرکت برای کاهش هزینه‌ها، در زمینه‌ی ایمنی کوتاهی کرد."
     }
   }
 ]

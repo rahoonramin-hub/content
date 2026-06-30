@@ -1,14 +1,121 @@
 [
   {
-    "id": "fct_001",
+    "id": "fct_010",
     "type": "fact",
     "level": "intermediate",
-    "priority": 25,
-    "img": "explore/assets/images/honey_bee.png",
+    "priority": 10,
     "data": {
-      "caption": "Honey never spoils!",
-      "explanation": "Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still perfectly edible.",
-      "funFact": "Did you know that bees must visit two million flowers to make just one pound of honey?"
+      "variant": "fact",
+      "caption": "کلمه‌ی as در انگلیسی هم به معنای «به عنوان» است و هم به معنای «همان‌طور که» — و این دو کاربرد کاملاً متفاوت هستند.",
+      "explanation": "as به عنوان نقش: She works as a teacher (او به عنوان معلم کار می‌کند). as برای هم‌زمانی: He smiled as he walked in (همان‌طور که وارد شد، لبخند زد). as برای مقایسه: She is as tall as her brother (او به اندازه‌ی برادرش قد بلند است).",
+      "img": "explore/assets/img/as.webp",
+      "funFact": "تشخیص نوع as با توجه به جمله‌ی بعد از آن مشخص می‌شود: اگر اسم بیاید، یعنی نقش؛ اگر فعل بیاید، معمولاً یعنی هم‌زمانی."
+    }
+  },
+  {
+    "id": "fct_011",
+    "type": "fact",
+    "level": "beginner",
+    "priority": 11,
+    "data": {
+      "variant": "fact",
+      "caption": "حرف اضافه‌ی at برای زمان دقیق، مکان نقطه‌ای و سرعت/قیمت دقیق به کار می‌رود — سه کاربرد در یک کلمه.",
+      "explanation": "زمان دقیق: at 5 o'clock، at midnight. مکان نقطه‌ای: at the door، at the airport. سرعت یا قیمت: at 100 km/h، at a low price.",
+      "img": "explore/assets/img/at.webp",
+      "funFact": "قاعده‌ی ساده: هرجا یک نقطه‌ی دقیق در زمان، مکان یا عدد مدنظر است، at به کار می‌رود."
+    }
+  },
+  {
+    "id": "fct_012",
+    "type": "fact",
+    "level": "intermediate",
+    "priority": 12,
+    "data": {
+      "variant": "fact",
+      "caption": "away به تنهایی معنای کاملی ندارد، اما در ترکیب با افعال، معنای جداشدن یا دورشدن می‌سازد.",
+      "explanation": "go away (دور شدن)، run away (فرار کردن)، put away (جمع کردن و کنار گذاشتن)، throw away (دور انداختن). در همه‌ی این موارد، away حس فاصله گرفتن از یک نقطه را اضافه می‌کند.",
+      "img": "explore/assets/img/away.webp",
+      "funFact": "این دسته از کلمات Phrasal Verb نام دارند؛ یادگیری آن‌ها به صورت ترکیبی، نه تک‌به‌تک، بسیار مؤثرتر است."
+    }
+  },
+  {
+    "id": "fct_013",
+    "type": "fact",
+    "level": "intermediate",
+    "priority": 13,
+    "data": {
+      "variant": "fact",
+      "caption": "unless در واقع معادل «if not» است، اما اکثر زبان‌آموزان آن را به اشتباه با یک جمله‌ی منفی دیگر همراه می‌کنند.",
+      "explanation": "ساختار درست: Unless you study, you will fail (اگر درس نخوانی، رد می‌شوی). از آن‌جا که unless خودش معنای منفی دارد، نباید دوباره not در همان جمله بیاید.",
+      "img": "explore/assets/img/unless.webp",
+      "funFact": "اشتباه رایج: «Unless you don't study» — این جمله از نظر منطقی دو بار منفی است و نادرست محسوب می‌شود."
+    }
+  },
+  {
+    "id": "fct_014",
+    "type": "fact",
+    "level": "beginner",
+    "priority": 14,
+    "data": {
+      "variant": "fact",
+      "caption": "until نشان‌دهنده‌ی ادامه‌ی یک وضعیت تا یک زمان مشخص است، نه فقط رسیدن به آن زمان.",
+      "img": "explore/assets/img/until.webp",
+      "explanation": "I will wait until 5 PM یعنی صبر کردن به طور مداوم تا ساعت ۵. این کلمه برای کارهایی به کار می‌رود که در طول یک بازه ادامه دارند، نه کارهایی که در یک لحظه اتفاق می‌افتند.",
+      "funFact": "نکته‌ی نگارشی: املای درست این کلمه until است، نه untill — تنها یک حرف l دارد."
+    }
+  },
+  {
+    "id": "fct_015",
+    "type": "fact",
+    "level": "intermediate",
+    "priority": 15,
+    "data": {
+      "variant": "fact",
+      "caption": "yet در جمله‌های مثبت معنای «هنوز» ندارد، بلکه معنای «با این حال» می‌دهد — برخلاف کاربرد آن در جمله‌های منفی.",
+      "img": "explore/assets/img/yet.webp",
+      "explanation": "در جمله‌ی منفی: I haven't finished yet (هنوز تمام نکرده‌ام). در جمله‌ی مثبت: The plan is simple, yet effective (برنامه ساده است، با این حال مؤثر است). این دو yet هیچ ارتباطی با هم ندارند.",
+      "funFact": "yet در نقش حرف ربط (مثل اما) معمولاً در نوشتار رسمی و مقاله‌نویسی بسیار پرکاربرد است."
+    }
+  },
+  {
+    "id": "fct_016",
+    "type": "fact",
+    "level": "advanced",
+    "priority": 16,
+    "data": {
+      "variant": "fact",
+      "caption": "still، already و yet هر سه به زمان مرتبط هستند، اما در موقعیت متضاد در جمله به کار می‌روند.",
+      "explanation": "still برای کاری که ادامه دارد و معمولاً انتظار می‌رفت تمام شده باشد: He is still sleeping. already برای کاری که زودتر از حد انتظار انجام شده: She has already left. yet برای کاری که هنوز انجام نشده، در جمله‌ی منفی یا سؤالی: Have you finished yet?",
+      "funFact": "جای این سه کلمه در جمله متفاوت است: still قبل از فعل اصلی می‌آید، already و yet معمولاً در پایان جمله یا بین فعل کمکی و فعل اصلی قرار می‌گیرند.",
+      "img": "explore/assets/img/3vs.webp"
+    }
+  },
+  {
+    "id": "fct_017",
+    "type": "fact",
+    "level": "intermediate",
+    "priority": 17,
+    "data": {
+      "variant": "comparison",
+      "caption": "And, But, Also, Anyway, I think, So, A lot, Find out",
+      "versus": "In addition, However, Moreover, Nevertheless, In my opinion, Therefore, Numerous, Discover",
+      "explanation": "ستون سمت چپ کلماتی هستند که در مکالمه‌ی روزمره رایج‌اند، اما در نوشتار رسمی یا آزمون‌هایی مانند آیلتس ضعیف تلقی می‌شوند. ستون سمت راست معادل رسمی همان کلمات است. برای مثال، به‌جای And می‌توان In addition و به‌جای So می‌توان Therefore به کار برد.",
+      "funFact": "جایگزینی این کلمات به تنهایی نمره‌ی نوشتار را بالا نمی‌برد، اما نشان می‌دهد نویسنده به دامنه‌ی واژگان رسمی مسلط است.",
+      "img": "explore/assets/img/2side-2.webp"
+    }
+  },
+  {
+    "id": "fct_018",
+    "type": "fact",
+    "level": "intermediate",
+    "priority": 18,
+    "data": {
+      "variant": "comparison",
+      "caption": "Good, Bad, Big, Small, Good at, Bad at, Easy, Hard",
+      "versus": "Outstanding, Terrible, Significant, Minor, Proficient in, Poor at, Effortless, Challenging",
+      "explanation": "صفت‌های ستون چپ کاربردی و رایج هستند، اما بسیار عمومی‌اند. صفت‌های ستون راست دقیق‌تر و رسمی‌تر هستند. برای نمونه، به‌جای Good می‌توان Outstanding و به‌جای Good at می‌توان Proficient in به کار برد.",
+      "funFact": "در نوشتار رسمی، تکرار صفت‌های ساده مانند Good و Bad معمولاً نشانه‌ی دامنه‌ی واژگان محدود در نظر گرفته می‌شود.",
+      "img": "explore/assets/img/2side-1.webp"
     }
   }
 ]

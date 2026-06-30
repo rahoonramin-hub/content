@@ -6,7 +6,7 @@
     "priority": 2,
     "data": {
       "gameType": "fill_blank",
-      "sentence": "She decided to _______ her flight due to the heavy storm.",
+      "sentence": "She decided to ___ her flight due to the heavy storm.",
       "answer": "cancel",
       "options": ["cancel", "invite", "destroy", "accept"],
       "hint": "To stop something from happening."
@@ -25,5 +25,95 @@
         { "word": "Trivial", "match": "Unimportant" }
       ]
     }
+  },
+  [
+  {
+    "id": "gm_007",
+    "type": "game",
+    "level": "beginner",
+    "priority": 7,
+    "data": {
+      "gameType": "word_match",
+      "pairs": [
+        { "word": "Generous", "match": "سخاوتمند" },
+        { "word": "Stubborn", "match": "لجباز" },
+        { "word": "Curious", "match": "کنجکاو" },
+        { "word": "Polite", "match": "مؤدب" }
+      ]
+    }
+  },
+  {
+    "id": "gm_008",
+    "type": "game",
+    "level": "beginner",
+    "priority": 8,
+    "data": {
+      "gameType": "word_match",
+      "pairs": [
+        { "word": "Borrow", "match": "قرض گرفتن" },
+        { "word": "Lend", "match": "قرض دادن" },
+        { "word": "Save", "match": "پس‌انداز کردن" },
+        { "word": "Spend", "match": "خرج کردن" }
+      ]
+    }
+  },
+  {
+    "id": "gm_009",
+    "type": "game",
+    "level": "intermediate",
+    "priority": 9,
+    "data": {
+      "gameType": "word_match",
+      "pairs": [
+        { "word": "Postpone", "match": "به تعویق انداختن" },
+        { "word": "Achieve", "match": "به دست آوردن" },
+        { "word": "Avoid", "match": "اجتناب کردن" },
+        { "word": "Improve", "match": "بهبود بخشیدن" }
+      ]
+    }
+  },
+  {
+    "id": "gm_010",
+    "type": "game",
+    "level": "intermediate",
+    "priority": 10,
+    "data": {
+      "gameType": "word_match",
+      "pairs": [
+        { "word": "Confident", "match": "مطمئن به خود" },
+        { "word": "Anxious", "match": "نگران، مضطرب" },
+        { "word": "Determined", "match": "مصمم" },
+        { "word": "Hesitant", "match": "مردد" }
+      ]
+    }
+  },
+  {
+    "id": "gm_011",
+    "type": "game",
+    "level": "advanced",
+    "priority": 11,
+    "data": {
+      "gameType": "word_match",
+      "pairs": [
+        { "word": "Inevitable", "match": "اجتناب‌ناپذیر" },
+        { "word": "Substantial", "match": "قابل‌توجه" },
+        { "word": "Reluctant", "match": "بی‌میل" },
+        { "word": "Persistent", "match": "پایدار، مصر" }
+      ]
+    }
+  },
+  {
+    "id": "gm_012",
+    "type": "game",
+    "level": "advanced",
+    "priority": 12,
+    "data": {
+      "gameType": "fill_blank",
+      "sentence": "By the time we arrived, the meeting ___ already started.",
+      "answer": "had",
+      "options": ["had", "has", "have", "was"],
+      "hint": "برای بیان کاری که پیش از یک نقطه‌ی دیگر در گذشته اتفاق افتاده، از Past Perfect استفاده می‌شود."
+    }
   }
+]
 ]
