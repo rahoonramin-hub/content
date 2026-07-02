@@ -1,11 +1,10 @@
 {
-  "version": 4,
+  "version": 5,
   "files": [
     "flashcards.json",
     "facts.json",
     "games.json",
     "idioms.json",
-    "listening.json",
     "quizzes.json",
     "stories.json"
   ]
